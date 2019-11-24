@@ -2,6 +2,10 @@
   "id": "ca0e52d7-51c6-46da-b71b-99f3a868854a",
   "name": "3-Dimensional-LMA-leaf-level",
   "overview": "ASD FS3 and SE PSR 3500+ leaf-level models for estimating leaf mass per area",
+  "keywords": [],
+  "theme": [],
+  "family": [],
+  "specific": [],
   "organization": "uw-enspec",
   "language": "python",
   "owner": "adamc"
